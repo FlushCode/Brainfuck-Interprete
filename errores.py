@@ -1,0 +1,2 @@
+class MCSyntaxError(Exception):
+    pass
